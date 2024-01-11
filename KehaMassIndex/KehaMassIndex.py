@@ -13,10 +13,24 @@ if vastus==0:
     print("Kahju! See on väga kasulik info!")
     print()
 elif vastus==1:
-    pikkus= int(input(nimi + "! Sinu pikkus (cm) : "))
-    mass=  float(input("Anna kaal ka (kg) => "))
+    try:
+        pikkus= int(input(nimi + "! Sinu pikkus (cm) : "))
+    except:
+        ValueError
+
+    try:
+        mass=  float(input("Anna kaal ka (kg) => "))
+    except:
+        ValueError
+
     mass=int(mass)     #float >> int
+    if (mass < 35) or (mass > 250):
+        print("Vale mass!")
+        quit();
     pikkus=int(pikkus)  #int >> int
+    if pikkus < 50 or pikkus > 250:
+        print("Vale pikkus!")
+        quit();
     print(pikkus, mass)
     indeks = mass/((pikkus/100)**2)
     print(nimi, "! Sinu keha indeks on:", round(indeks, 1))
@@ -37,4 +51,3 @@ elif vastus==1:
         print("Tervisele ohtlik rasvumine!")
         
 print("Kohtumiseni, " + nimi + "! Igavesti Sinu, Python!")
-
