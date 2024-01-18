@@ -1,7 +1,7 @@
 def Lisamine (i:list,p:list,k:int):
     for x in range (k):
-        nimi=input("Mis on inimese nimi?")
-        palk=int(input("Kui suur on palk?"))
+        nimi=input("Mis on inimese nimi?  ")
+        palk=int(input("Kui suur on palk?  "))
         i.append(nimi)
         p.append(palk)
     return i,p
@@ -67,4 +67,24 @@ def VahemPalk(i:list,p:list):
             nimi=i[ind]
             a+=1
             nimi_list.append(nimi)
-    return min_,nimi_list     
+    return min_,nimi_list   
+
+def keskmine(p:list):
+    s=0
+    for palk in p:
+        s+=palk
+    k=len(p)
+    kesk=s/k
+    return kesk
+
+def paring(inimesed,palgad):
+      kes=input("Sisesta nimi otsimiseks: ")
+      for inimene in inimesed:
+           if kes==inimene:
+               inimene_index=inimesed.index(kes)
+               inimese_palk=palgad[inimene_index]
+               break
+           else:
+               inimese_palk="No in list!"
+               
+      return inimese_palk,kes  
