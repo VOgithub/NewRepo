@@ -1,0 +1,12 @@
+﻿Jaanuar
+Vebruaar
+Märts
+Aprill
+Mai
+Juuni
+Juuli
+August
+September
+Oktoober
+November
+Detsember

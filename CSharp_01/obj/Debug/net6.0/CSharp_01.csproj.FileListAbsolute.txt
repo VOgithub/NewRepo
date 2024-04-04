@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\bin\Debug\net6.0\CSharp_01.exe
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\bin\Debug\net6.0\CSharp_01.deps.json
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\bin\Debug\net6.0\CSharp_01.runtimeconfig.json
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\bin\Debug\net6.0\CSharp_01.dll
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\bin\Debug\net6.0\CSharp_01.pdb
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.dll
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\refint\CSharp_01.dll
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.pdb
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\CSharp_01.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\CSharp_01\obj\Debug\net6.0\ref\CSharp_01.dll
